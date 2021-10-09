@@ -1,4 +1,4 @@
-name: VERUSCOIN 
+name: veruscoin 
 
 on: [push, pull_request] 
 
